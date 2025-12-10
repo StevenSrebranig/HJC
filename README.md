@@ -118,3 +118,25 @@ When citing the HJC Manifesto or field studies, please use:
 Srebranig, Steven (2025).
 The Hoffman–Joyce Continuum (HJC) Manifesto, Version 3.5.
 Zenodo. DOI: (insert DOI)
+
+December 2025 — Major Update
+
+**HJC Manifesto v5.4**
+
+Added Appendix R — Capabilities of the HJC Framework, formalizing the full theoretical and operational scope of HJC across creative, analytic, pedagogical, cognitive, rhetorical, and computational domains.
+
+Added Appendix S — Practical Application of the HJC Framework, introducing a step-by-step operational sequence (identify reader-state → evaluate Fit/Phase/Dissolution → apply targeted adjustments → iterate).
+
+Clarified terminology for hinge-dashes, noting their expected measurability in eye-tracking studies.
+
+New Companion Documents
+
+HJC Executive Summary v1.0 — A 10-page distilled introduction to the core concepts, modulation mechanics, and practical applications of the Hoffman–Joyce Continuum.
+
+HJC Quick Start Guide v1.0 — A concise instructional document offering immediate entry-points for writers, editors, translators, performers, and researchers using HJC in active practice.
+
+Administrative
+
+Updated Zenodo revision note to reflect new appendices and companion materials.
+
+Updated GitHub repository with new files and documentation clarifications.
