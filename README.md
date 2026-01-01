@@ -1,142 +1,134 @@
-**The Hoffman–Joyce Continuum (HJC)**
-*A Framework for Modulating Language as Living Perception*
+The Hoffman–Joyce Continuum (HJC)
 
-Version 3.5 — Canonical Research Repository
+A Structural Specification for Textual Modulation
 
-Abstract
+Specification Version 6.0 — Canonical Repository
 
-The Hoffman–Joyce Continuum (HJC) unites literary craft, cognitive science, and moral physics into a single operational framework for language as living perception.
-Through rhythm, syntax, and controlled micro-decoherence, language becomes a perceptual interface—a dynamic field where lucidity and dream co-modulate reader attention.
+Overview
 
-Version 3.5 consolidates prior theoretical, empirical, and artistic expansions of the Continuum.
-This repository serves as the canonical home for:
+The Hoffman–Joyce Continuum (HJC) is a formal specification for modulating reader perception through language while preserving explicit epistemic boundaries. It models how rhythm, syntax, sequencing, and controlled ambiguity shape perceptual state—without altering the truth status of claims.
 
-The HJC Manifesto
+HJC treats language as a perceptual interface, not merely a carrier of information. However, unlike purely aesthetic or rhetorical theories, HJC operates under a declared Lucid Substrate: all modulation occurs atop clearly stated claims, inferences, and non-claims.
 
-Cross-lingual modulation studies
+This repository contains the canonical specification of HJC.
 
-Diagrams and formal definitions
+What HJC Is (and Is Not)
 
-Ongoing experimental field studies
+HJC is:
 
-Community contributions and replications
+A constraint-based specification governing perceptual modulation in text
 
-The Zenodo DOI for the current stable release:
-(Insert DOI once the repo is linked to Zenodo)
+Applicable to writing, analysis, translation, pedagogy, oratory, and AI-assisted transformation
 
-🚀 **What Is HJC?**
+Designed for auditability, reversibility, and structural inspection
 
-The Hoffman–Joyce Continuum models language as a perception engine, built on:
+HJC is not:
 
---**Fit** — coherent, lucid structure
+A persuasion framework
 
---**Phase** — oscillation, hinge, inversion
+A belief-generation system
 
---**Dissolution** — drift, ambiguity, micro-decoherence
+A method for smuggling claims through affect
 
-HJC provides both:
+A replacement for evidence, argument, or judgment
 
-***A compositional method*** (for writers and creators), and
+HJC modulates how a text is experienced, not what the text is allowed to assert.
 
-***An analytical framework*** (for linguists, cognitive scientists, and researchers)
+Core Axes of Modulation
 
-**Its core claim:**
-Language modulates the reader’s perceptual state in measurable, repeatable ways.
+HJC models modulation along three orthogonal axes:
 
-📂 Repository Structure
-/manifesto
-    HJC_Manifesto_v3.5.pdf
-    HJC_Manifesto_v3.5.docx
+Fit — coherence, lucidity, structural grounding
 
-/field-study
-    ***"AI Generated HJC on Japanese whitepaper v1.1.pdf"***
-  
+Phase — oscillation, hinge, inversion, rhythmic reorientation
+
+Dissolution — controlled ambiguity, drift, micro-decoherence
+
+Texts move along the lucid–dream continuum through deliberate redistribution of these axes.
+
+Epistemic Boundary (v6.0)
+
+Version 6.0 formalizes a strict boundary:
+
+HJC may shape perception, but must not silently rewrite epistemic status.
+
+Key constructs introduced or clarified in v6.0 include:
+
+Lucid Substrate
+
+Non-Claims
+
+Recoverability
+
+Premature Dissolution Injection (PDI)
+
+Self-Sealing Structures
+
+Structural Correction Failure
+
+These constraints make HJC suitable for high-stakes contexts (education, analysis, public discourse) without collapsing into manipulation.
+
+Relation to Specification-Driven Intelligence (SDI)
+
+HJC is a concrete instantiation of Specification-Driven Intelligence (SDI).
+
+Under SDI:
+
+The human-authored specification defines intent and constraints
+
+AI systems act only as interpreters, not authors
+
+Authority resides in the specification; responsibility remains human
+
+HJC functions as executable constraint logic when paired with an AI interpreter.
+
+Repository Structure
+/specification
+  HJC_Specification_v6.0.pdf
+  HJC_Specification_v6.0.docx
+
+/field-studies
+  HJC_Field_Study_01_Japanese_v1.1.pdf
+
 /diagrams
-    fit_phase_dissolution.svg
-    linguistic_constraint_maps.png
+  fit_phase_dissolution.svg
+  modulation_maps.png
 
 /examples
-    modulation_examples.txt
-    hinge_drift_samples.md
+  hinge_samples.md
+  modulation_examples.txt
 
 /LICENSE
+/README.md
 
-/README.md  (this file)
+Field Studies and Experiments
 
-🔬 **Open Invitation for HJC Modulation Experiments**
-
-The Hoffman–Joyce Continuum (HJC) is a living theoretical framework.
-
-Researchers, writers, linguists, and AI systems are explicitly invited to:
-
-apply HJC modulation to texts in any language,
-
-experiment with Fit → Phase → Dissolution trajectories,
-
-explore cross-lingual reconstruction fidelity,
-
-analyze genre bandwidth and local stability thresholds,
-
-perform perceptual or cognitive testing (e.g., eye-tracking, pause mapping),
-
-map HJC modulation devices to their own linguistic substrates,
-
-publish their results as independent HJC Field Studies.
-
-**How to contribute a field study**
-
-If you create an HJC experiment, please label it:
+Empirical or exploratory work should be labeled:
 
 HJC Field Study #[N]: [Topic / Language / Method]
 
+Field studies:
 
-and link back to this repository and the Zenodo record.
+Apply the specification
 
-All such work may cite this repository as the canonical reference for the framework.
+Do not redefine it
 
-This openness is intentional:
-HJC is designed as a testable, extensible model of linguistic perception, and its development depends on external replication and exploration.
+May succeed or fail visibly
 
-📑 HJC Field Study #1 — Cross-Lingual Dissolution in Japanese (***"AI Generated HJC on Japanese whitepaper v1.1.pdf"***):
+Replication, critique, and falsification are explicitly encouraged.
 
-A fully AI-generated field study demonstrating:
+Referencing
 
-high-entropy modulation (≈95%) applied to a Japanese source text
+When citing the specification:
 
-cross-lingual perceptual reconstruction
+Srebranig, Steven (2026). The Hoffman–Joyce Continuum (HJC): A Structural Specification for Textual Modulation, Version 6.0. Zenodo. DOI: 10.5281/zenodo.17517550 
 
-emergent language-specific constraints
+License and Authorship
 
-a tri-agent model (HJC ↔ Language Substrate ↔ Author-Touch)
+All concepts, frameworks, and specifications originate with the author.
+AI systems were used for critique, stress-testing, and execution under explicit human direction.
 
-This serves as the first empirical extension of the Manifesto and a template for future studies.
+Status
 
-📘 Referencing HJC
-
-When citing the HJC Manifesto or field studies, please use:
-
-Srebranig, Steven (2025).
-The Hoffman–Joyce Continuum (HJC) Manifesto, Version 3.5.
-Zenodo. DOI: (insert DOI)
-
-December 2025 — Major Update
-
-**HJC Manifesto v5.4**
-
-Added Appendix R — Capabilities of the HJC Framework, formalizing the full theoretical and operational scope of HJC across creative, analytic, pedagogical, cognitive, rhetorical, and computational domains.
-
-Added Appendix S — Practical Application of the HJC Framework, introducing a step-by-step operational sequence (identify reader-state → evaluate Fit/Phase/Dissolution → apply targeted adjustments → iterate).
-
-Clarified terminology for hinge-dashes, noting their expected measurability in eye-tracking studies.
-
-New Companion Documents
-
-HJC Executive Summary v1.0 — A 10-page distilled introduction to the core concepts, modulation mechanics, and practical applications of the Hoffman–Joyce Continuum.
-
-HJC Quick Start Guide v1.0 — A concise instructional document offering immediate entry-points for writers, editors, translators, performers, and researchers using HJC in active practice.
-
-Administrative
-
-Updated Zenodo revision note to reflect new appendices and companion materials.
-
-Updated GitHub repository with new files and documentation clarifications.
+This repository contains the canonical HJC specification.
+Companion essays, lay explanations, and applications are maintained separately.
