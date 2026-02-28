@@ -1,3 +1,7 @@
+Plain-Language Summary
+
+The Hoffman–Joyce Continuum (HJC) is a formal framework for analyzing how language modulates perception while preserving epistemic integrity. It models how coherence, rhythm, ambiguity, and structural shifts influence reader experience without altering the truth status of claims. HJC is designed for use in writing, education, AI systems, and public discourse where perceptual modulation must remain auditably bounded by explicit epistemic constraints.
+
 The Hoffman–Joyce Continuum (HJC)
 
 A Structural Specification for Textual Modulation
