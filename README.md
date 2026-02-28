@@ -136,3 +136,8 @@ Status
 
 This repository contains the canonical HJC specification.
 Companion essays, lay explanations, and applications are maintained separately.
+---
+
+## Keywords
+
+coherence theory · textual modulation · epistemic boundaries · narrative identity · phenomenology · rhetorical structure · AI alignment · specification-driven intelligence · cognitive modulation · structural linguistics · perceptual interface
